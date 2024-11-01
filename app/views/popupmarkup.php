@@ -1,0 +1,1 @@
+<div id="smart-quick-view-popup"></div>

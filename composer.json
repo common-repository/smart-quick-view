@@ -1,0 +1,14 @@
+{
+    "require": {
+        "piwik/device-detector": "^3.11",
+        "danielstjules/stringy": "^3.1"
+    },
+    "require-dev": {
+        "symfony/console": "^3.1",
+        "symfony/finder": "^3.1",
+        "phpunit/dbunit": "1.4.1",
+        "symfony/filesystem": "3.4.18",
+        "brianium/paratest": "0.15.0",
+        "mistralys/subsetsum": "^1.0"
+    }
+}

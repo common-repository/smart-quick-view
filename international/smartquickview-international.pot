@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-19T05:25:09+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0-alpha-d72f134\n"
+"X-Domain: smartquickview-international\n"
+
+#: data/preferences/Preferences.php:25
+msgid "Before Add to Cart"
+msgstr ""
+
+#: data/preferences/Preferences.php:26
+msgid "After Add to Cart"
+msgstr ""
+
+#: data/preferences/Preferences.php:41
+msgid "Smartphone"
+msgstr ""
+
+#: data/preferences/Preferences.php:42
+msgid "Tablet"
+msgstr ""
+
+#: data/preferences/Preferences.php:43
+msgid "Desktop"
+msgstr ""
+
+#: handlers/KirkiHandler.php:40
+msgid "Personalize your Smart Quick View plugin."
+msgstr ""
+
+#: handlers/KirkiHandler.php:59
+msgid "Button"
+msgstr ""
+
+#: handlers/KirkiHandler.php:60
+msgid "The button that opens the quick view popup."
+msgstr ""
+
+#: handlers/KirkiHandler.php:70
+msgid "Position"
+msgstr ""
+
+#: handlers/KirkiHandler.php:83
+msgid "Button Text"
+msgstr ""
+
+#: handlers/KirkiHandler.php:95
+msgid "Custom Colors"
+msgstr ""
+
+#: handlers/KirkiHandler.php:96
+msgid "If disabled, used your own theme colors for the button."
+msgstr ""
+
+#: handlers/KirkiHandler.php:100
+#: handlers/KirkiHandler.php:179
+msgid "Enabled"
+msgstr ""
+
+#: handlers/KirkiHandler.php:101
+#: handlers/KirkiHandler.php:180
+msgid "Disabled"
+msgstr ""
+
+#: handlers/KirkiHandler.php:111
+msgid "Background Color"
+msgstr ""
+
+#: handlers/KirkiHandler.php:122
+msgid "Text Color"
+msgstr ""
+
+#: handlers/KirkiHandler.php:137
+msgid "Devices (Responsive)"
+msgstr ""
+
+#: handlers/KirkiHandler.php:138
+msgid "Responsive Preferences."
+msgstr ""
+
+#: handlers/KirkiHandler.php:148
+msgid "Enable on:"
+msgstr ""
+
+#: handlers/KirkiHandler.php:165
+msgid "Style"
+msgstr ""
+
+#: handlers/KirkiHandler.php:175
+msgid "Glass effect (blur)"
+msgstr ""

@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sqv-popup–content .flex-viewport {
+    @apply !mb-0 max-h-[600px];
+}
+
+.sqv-popup–content .woocommerce-product-gallery {
+     width: 400px !important;
+}
+
+.sqv-popup–content .flex-control-nav li {
+    @apply !w-[50px] !h-[50px] !mr-0 ml-[4px] mt-[4px] mb-[4px];
+}
+
+.sqv-popup–content .flex-control-nav li:last-child {
+    @apply !mr-0;
+}
+
+@media (max-width: 999px) {
+    .sqv-popup–content .woocommerce-product-gallery {
+        width: 300px !important;
+    }
+
+    .sqv-popup–content .flex-viewport {
+        @apply !mb-0 max-h-[500px];
+    }
+}
+
+@media (max-width: 767px) {
+    .sqv-popup–content .woocommerce-product-gallery {
+        width: 100% !important;
+        margin-bottom: 0 !important;
+    }
+
+    .sqv-popup–content .flex-viewport {
+        @apply !mb-0 max-h-[500px];
+    }
+
+    .sqv-popup–content .woocommerce-product-gallery__trigger {
+        @apply !hidden;
+    }
+}
